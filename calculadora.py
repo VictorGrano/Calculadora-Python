@@ -43,3 +43,4 @@ while True:
     sair = sair.lower().startswith('s')
     if sair:
         break
+
